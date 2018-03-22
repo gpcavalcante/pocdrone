@@ -3,5 +3,4 @@ pipeline:
     image: node:8.9.3-alpine
     commands:
      - npm test
-     #- npm run coverage
      # - npm run lint
