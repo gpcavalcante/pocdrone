@@ -3,4 +3,3 @@ pipeline:
     image: node:8.9.3-alpine
     commands:
      - npm run test
-     # - npm run lint
