@@ -2,5 +2,5 @@ pipeline:
   build:
     image: node:8.9.3-alpine
     commands:
-     - npm test
+     - npm run test
      # - npm run lint
