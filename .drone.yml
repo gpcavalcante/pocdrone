@@ -5,3 +5,4 @@ pipeline:
       - npm test
      # - npm run coverage
      # - npm run lint
+     #	
